@@ -1,4 +1,3 @@
 ## 👋 Hi there, I'm Pia!
 
-I’m currently learning **Laravel**, **Flutter**, and **REST API**
-Informatics Engineering student, future full-stack developer.
+I’m an Informatics Engineering student passionate about **Laravel**, **Flutter & REST API**. On my way to becoming a full-stack developer.
