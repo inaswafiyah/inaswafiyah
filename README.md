@@ -1,6 +1,14 @@
-## 👋 Hi there, I'm Pia!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is pia
+===========================================================================================================================
 
-I’m an Informatics Engineering student passionate about **Laravel**, **Flutter & REST API**. On my way to becoming a full-stack developer.
+Software Engineering
+--------------------
+
+I’m an Informatics Engineering student passionate about Laravel, Flutter & REST API. On my way to becoming a full-stack developer.
+
+* 🌍  I'm based in Indonesia
+* 🖥️  See my portfolio at [portfoliopia](http://portfoliopia.vercel.app/)
+* 🤝  I'm open to collaborating on each person
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/inswyfi_/?igsh=YXZqeDFhczZ4M2Ji#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inas-wafiyah-26b77a316/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@codearsyn?is_from_webapp=1&sender_device=pc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inaswafiyah4@gmail.com) 
