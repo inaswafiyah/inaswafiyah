@@ -1,5 +1,4 @@
-![Pixel Art 8Bit GIF by pixel jeff](https://github.com/user-attachments/assets/e9640398-3087-4cba-9a7a-a712eb0c5e3d)![Happy Disney Princess GIF by Disney](https://github.com/user-attachments/assets/9529ac05-1e9f-407f-babf-866152d1bd3e)
-
+![Pixel Art 8Bit GIF by pixel jeff](https://github.com/user-attachments/assets/e9640398-3087-4cba-9a7a-a712eb0c5e3d)
 
 Hi My name is pia
 ===========================================================================================================================
