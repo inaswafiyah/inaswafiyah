@@ -9,7 +9,7 @@ Software Engineering
 I’m an Informatics Engineering student passionate about Laravel, Flutter & REST API. On my way to becoming a full-stack developer.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [portfoliopia](http://portfoliopia.vercel.app/)
+* 🖥️  See my portfolio at [portfolio pia](https://my-portfolio-phi-ashen-78.vercel.app/)
 * 🤝  I'm open to collaborating on each person
 
 ## 🌐 Socials:
